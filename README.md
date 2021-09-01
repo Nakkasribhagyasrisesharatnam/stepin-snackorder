@@ -1,2 +1,2 @@
-# stepin-solar-MPPT
+# stepin-snackorder
 Mini project
