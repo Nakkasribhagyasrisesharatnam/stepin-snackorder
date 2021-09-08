@@ -1,4 +1,4 @@
-name: C/C++ CI./configure
+name: C/C++ CI
 
 on:
   push:
