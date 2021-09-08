@@ -1,4 +1,4 @@
-PROJECT_NAME = Snackorder
+PROJECT_NAME = stepin-snackorder
 
 # Output directory
 BUILD = build
